@@ -1,0 +1,11 @@
+# config.yml for HordeNight
+
+# How often should Horde Night occur (in Minecraft nights)?
+# Example: 5 means every 5 Minecraft nights. Adjust based on difficulty.
+horde-frequency: 5
+
+# How many zombies should spawn per wave during Horde Night?
+# Example: 1000 zombies per wave.
+zombie-wave-size: 1000
+
+# You can add other settings here to control additional effects like the storm or mob difficulty.

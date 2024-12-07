@@ -1,0 +1,6 @@
+name: Horde Night
+version: '1.0'
+main: net.abhinav.hordenight.HordeNight
+api-version: '1.21'
+load: STARTUP
+authors: [ Abhinav VS ]
